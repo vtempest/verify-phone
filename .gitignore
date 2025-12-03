@@ -20,7 +20,6 @@ wrangler.toml
 node_modules
 /build
 /dist
-/docs
 /.svelte-kit
 /package
 .env
